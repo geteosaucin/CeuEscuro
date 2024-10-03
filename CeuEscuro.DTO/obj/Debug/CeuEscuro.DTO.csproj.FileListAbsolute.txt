@@ -1,0 +1,12 @@
+C:\Users\wil.rrsilva\source\repos\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\wil.rrsilva\source\repos\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\wil.rrsilva\source\repos\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.csproj.AssemblyReference.cache
+C:\Users\wil.rrsilva\source\repos\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.csproj.CoreCompileInputs.cache
+C:\Users\wil.rrsilva\source\repos\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.dll
+C:\Users\wil.rrsilva\source\repos\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.pdb
+C:\Users\gustavo.valmeida\source\repos\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\gustavo.valmeida\source\repos\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\gustavo.valmeida\source\repos\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.csproj.AssemblyReference.cache
+C:\Users\gustavo.valmeida\source\repos\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.valmeida\source\repos\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.dll
+C:\Users\gustavo.valmeida\source\repos\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.pdb

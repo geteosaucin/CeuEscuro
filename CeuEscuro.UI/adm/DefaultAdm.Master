@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DefaultAdm.master.cs" Inherits="CeuEscuro.UI.adm.DefaultAdm" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="../css/style.css" rel="stylesheet" />
+    <title>CeuEscuro</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <nav>
+                <div class="menu">
+                    <!-- logo -->
+                    <a href="../index.html" class="logo">
+                        <img src="../img/LOGO 1.png" alt="">
+                    </a>
+
+
+
+                    <!-- menu -->
+                    <ul class="navbar">
+
+                        <!-- menu hamburger -->
+                        <li>
+                            <a class="btnMenu">
+                                <i class='bx bx-menu'></i>
+                            </a>
+                            <ul class="sub">
+                                <li><a href="#emphasis">emphasis</a></li>
+                                <li><a href="#products">products</a></li>
+                                <li><a href="#services">services</a></li>
+                                <li><a href="#domain">domain</a></li>
+                            </ul>
+                        </li>
+
+
+
+
+                        <li class="listMenu">
+                            <a href="ManageFilm.aspx">Manage Film
+                    <i class='bx
+                                bx-chevron-down'></i>
+                            </a>
+
+                        </li>
+
+                        <li>
+                            <a href="../Login.aspx">Área Restrita</a>
+                        </li>
+
+
+
+                        <li>
+                            <a href="ManageUser.aspx">Manage User
+
+                            </a>
+                        </li>
+
+                        <div class="line1"></div>
+
+                        <%-- <li class="assine">
+                <a href="./contact.html">
+
+                    <i class='bx bx-user'></i>
+                    Assine agora
+                </a>
+            </li>--%>
+
+                        <button class="btnLogin">
+                            <a href="../login.html">Login</a>
+                        </button>
+                    </ul>
+
+                </div>
+
+            </nav>
+
+
+            <asp:Label ID="lblSession" runat="server" Text=""></asp:Label>
+            <div class="geral">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+    <%--jquery--%>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <%--jqueryMask--%>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+</body>
+</html>
